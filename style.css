@@ -1,0 +1,82 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.bottom-sec-div{
+    display: flex;
+    margin-bottom: 5px;
+    
+}
+.half-width{
+    width: 50%;
+    
+}
+.skip-diet{
+    padding: 10%;
+}
+.about{
+    padding: 15%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+}
+.orange{
+    color: orange;
+}
+.link-button{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    border-radius: 10px;
+    font-weight: 400;
+}
+.section2{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position:left;
+    
+
+}
+.myRecipy{
+    text-align: center;
+    padding: 5px 500px 0px 500px;
+}
+.recipyboxes{
+    display: flex;
+   
+    margin: 0px 4% 5% 4%;
+    
+}
+.recipybox{
+    border-radius: 20px;
+    box-shadow: 9px 12px 24px -18px;
+    padding: 20px;
+    margin: 50px;
+}
+.recipybox img{
+    width: 100%;
+}
+
+.popularity{
+    display: flex;
+    box-shadow: 9px 12px 24px -18px;
+    margin:0% 10% 5% 10%;
+    border-radius: 30px;
+    
+    
+}
+.follower{
+     text-align: center;
+     padding:0% 10% 0% 10%;
+}
+footer{
+    padding: 4%;
+    text-align: center;
+    color: rgb(167, 165, 165);
+    background-color: black;
+}
